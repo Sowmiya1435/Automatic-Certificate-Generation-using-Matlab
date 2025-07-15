@@ -55,10 +55,9 @@ Visual Layout of the Certificate:
 
 💡 Customization
 Change text position by editing the position array in the script.
-
 Modify font size, color, or text alignment via insertText() options.
-
 Save as .pdf instead of .png using exportgraphics() or print().
+
 📜 License
 This project is open-source and free to use for academic and non-commercial purposes.
 
